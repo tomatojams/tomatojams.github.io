@@ -95,3 +95,14 @@ body {
     color: #fff; /* 텍스트 색상을 유지 */
   }
 
+  #weather {
+    position: fixed;
+    top: 10px; /* 원하는 상단 위치를 조정하세요 */
+    right: 10px; /* 원하는 오른쪽 위치를 조정하세요 */
+    color: white;
+  }
+  
+  #weather span {
+    display: block;
+  }
+  
