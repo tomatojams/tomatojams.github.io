@@ -14,16 +14,12 @@
   0% {
     transform: none;
   }
-  12.5% {
+  25% {
     transform: translateY(-5px) rotateY(0);
   }
-  25% {
+  50% {
     transform: translateY(-5px) rotateY(180deg);
   }
-  50% {
-    transform: none;
-  }
-
   100% {
     transform: none;
   }
