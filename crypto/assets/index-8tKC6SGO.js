@@ -1123,3 +1123,4 @@ body {
 
 
 `;var Nb={exports:{}};Nb.exports={ReactQueryDevtools:function(){return null},ReactQueryDevtoolsPanel:function(){return null}};var A2=Nb.exports;function E2(){const e=Eb(xf);return ke.jsxs(pS,{theme:e?yS:xS,children:[ke.jsx(C2,{}),ke.jsx(k2,{}),ke.jsx(A2.ReactQueryDevtools,{initialIsOpen:!1})]})}const T2=new Bk;Tu.createRoot(document.getElementById("root")).render(ke.jsx(Te.StrictMode,{children:ke.jsx(V_,{children:ke.jsx(jk,{client:T2,children:ke.jsx(E2,{})})})}));
+//# sourceMappingURL=index-8tKC6SGO.js.map
