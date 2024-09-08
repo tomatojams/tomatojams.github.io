@@ -1,7 +1,13 @@
-서브폴더로 프로젝트 넣기
-build한후에
+주로 노마드코더 과제제출용
+1. 리액트 Conin_tracker
+2. JS momentum
+3. HTML CSS kokoa
+4. Recoil to_do list
 
-/to_do/ 서브폴더를 만들고
+여러 프로젝트를 넣기위한 - 서브폴더로 프로젝트 넣기
+리액트를 build한후에
+
+ /to_do/ 서브폴더에 넣기위해서
 
 head부분을 수정한다
 /assets/index-yjTcXVjC.js
