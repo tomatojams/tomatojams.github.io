@@ -10,14 +10,23 @@
  /to_do/ 서브폴더에 넣기위해서
 
 head부분을 수정한다
-/assets/index-yjTcXVjC.js
--> "/to_do/assets/index-yjTcXVjC.js"
 
-  <head>
-    <meta charset="UTF-8" />
-    <link rel="icon" type="image/svg+xml" href="/vite.svg" />
-    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
-    <title>Vite + React + TS</title>
-    <script type="module" crossorigin src="/to_do/assets/index-yjTcXVjC.js"></script>
-    <link rel="stylesheet" crossorigin href="/to_do/assets/index-BswAmVUE.css" />
-  </head>
+    /assets/index-yjTcXVjC.js
+
+    -> "/to_do/assets/index-yjTcXVjC.js"
+
+    head>
+    
+    meta charset="UTF-8" />
+    
+    link rel="icon" type="image/svg+xml" href="/vite.svg" />
+    
+    meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    
+    title>Vite + React + TS</title>
+    
+    script type="module" crossorigin src="/to_do/assets/index-yjTcXVjC.js"></script>
+
+    link rel="stylesheet" crossorigin href="/to_do/assets/index-BswAmVUE.css" />
+   
+    /head>
