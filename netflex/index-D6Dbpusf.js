@@ -166,7 +166,7 @@ Error generating stack: `+o.message+`
     background-image: url(${R=>pp(a(R.id),"w500")});
     background-size: cover;
     position: absolute;
-    width: 40vw;
+    width: 600px;
     height: 80vh;
     top: 0;
     left: 0;
